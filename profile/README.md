@@ -10,7 +10,7 @@
 
 ----
 
-A rehost of the original GMTower server that closed on April 8th 2016.
+A rehost of GMod Tower aimed to flesh out the Lobby 2 experience.
 
 Join the open beta server at `join.gmtthelobby.com`.
 
